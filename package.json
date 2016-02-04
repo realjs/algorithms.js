@@ -4,7 +4,7 @@
   "description": "Algorithm.JS is a Javascript library providing full implementation of most Computer Science algorithms and data structures.",
   "main": "algorithms.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jasmine-node ."
   },
   "repository": {
     "type": "git",
@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/realjs/algorithms.js/issues"
   },
-  "homepage": "https://github.com/realjs/algorithms.js#readme"
+  "homepage": "https://github.com/realjs/algorithms.js#readme",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
 }

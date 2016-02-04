@@ -1,22 +1,30 @@
 # How to become a contributor
 
+- Always search for a related issue before starting a new issue.
+- Always choose a concise, helpful issue name.
+- Always stay on-topic. If you've got a new bug report or feature request, put it in its own issue.
+- Always be polite to other people.
+- Never post private information, such as torrent or tracker names, IP addresses, etc.
+
+Issues that break the rules may be deleted and locked without warning.
 
 ## Contributor License Agreements
 
 We'd love to accept your patches! Before we can take them, we
 have to jump a couple of legal hurdles.
 
-Please ensure that your contributions are licenced under an MIT Public Licence or have a licence that is compartible with the MIT Public Licence.
+Please ensure that your contributions are licenced under an MIT Licence or have a licence that is compartible with the MIT Licence.
 
 
 
 ## How to prepare
 
 * You need a [GitHub account](https://github.com/signup/free)
-* Submit an [issue ticket](https://github.com/anselmh/CONTRIBUTING.md/issues) for your issue if there is no one yet.
+* Submit an [issue ticket](https://github.com/realjs/algorithms.js/issues) for your issue if there is no one yet.
     * Describe the issue and include steps to reproduce if it's a bug.
     * Ensure to mention the earliest version that you know is affected.
 * If you are able and want to fix this, fork the repository on GitHub
+
 
 ## Make Changes
 
@@ -45,7 +53,7 @@ Please ensure that your contributions are licenced under an MIT Public Licence o
 1. Ensure that your code has an appropriate set of unit tests which all pass.
 1. Submit a pull request.
 
-# Additional Resources
+## Additional Resources
 
 * [General GitHub documentation](http://help.github.com/)
 * [GitHub pull request documentation](http://help.github.com/send-pull-requests/)
