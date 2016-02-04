@@ -1,0 +1,37 @@
+{
+  "name": "algorithms",
+  "description": "Algorithm.JS is a Javascript library providing full implementation of most Computer Science algorithms and data structures.",
+  "main": "algorithms.js",
+  "authors": [
+    "Bernard Ojengwa"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "algorithms",
+    "javascript",
+    "data",
+    "structures",
+    "graphs",
+    "binary",
+    "search",
+    "sort",
+    "sorting",
+    "queue",
+    "stacks"
+  ],
+  "homepage": "https://github.com/realjs/algorithms.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ]
+}
